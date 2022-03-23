@@ -1,0 +1,33 @@
+h1 {
+    font-family: arial ;
+    font-size : 80px ;
+    font-style : italic ;
+    text-align : center ;
+    background-color : red ;
+    border:150px solid violet ;
+    padding : 30px solid green;
+    margin : 100px ;
+}
+
+h2 {
+ background-color: green;
+ text align : right ;
+ padding: 10px border-style: line;
+ border : 100px solid black ;
+ border-width: 100px;
+ border-color: blue;
+ margin: 220px;
+ }
+h3{
+
+    font-size : 80px ;
+    font-style : italic ;
+    text-align : right ;
+    color : red ;
+    background-color: grey;
+    padding: 10px;
+    border: 200px green;
+    border-width: 10px;
+    box-shadow : 30px 30px blue ;
+
+    }
