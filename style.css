@@ -1,0 +1,76 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  column-gap: 1px;
+  flex-grow: initial ;
+}
+
+
+h1 {
+    font-family: arial ;
+    font-size : 50px ;
+    font-style : italic ;
+    text-align : center ;
+    color : whitesmoke ;
+    margin: 20px;
+    border: 5px;
+    border-style: double;
+    border-spacing: 20px 50px 60px;
+    border-radius: 20px;
+    border-color: black;
+    background-color:greenyellow;
+    justify-content: center;
+    }
+ 
+ .d1 {
+    font-size: 20px ;
+    color : green ;
+    margin: 40px;
+    border: 5px solid violet;
+    border-radius: 30px;
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: solid;
+    background-color: ;
+ }
+ 
+ .d2{
+   text-align: end;
+   color: aliceblue;
+   background-color : blue ;
+   border: 5px green;
+   border-style: dotted;
+   box-shadow: inset;
+   margin: 15px;
+ }
+ 
+ .d3{
+   background-color : red ;
+   font-style: italic ;
+   color : white ;
+   border: 5px solid black;
+   border-style: ridge;
+   margin: 10px;
+   
+
+ }
+
+ .d4{
+  background-color : violet ;
+  font-style: italic ;
+  color : blanchedalmond ;
+  align-self: stretch;
+}
+
+ div.foto{
+   text-align: center;
+   border: 300px;
+   border-style: solid;
+   border-color: cornflowerblue;
+   justify-content: center;
+   align-items: stretch;
+   align-content: center;
+   
+ }
